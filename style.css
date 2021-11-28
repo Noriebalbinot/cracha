@@ -18,7 +18,7 @@ body {
   /* estilos versão celular */
 
   main {
-    background: url(images/background.svg) no-repeat center/cover;
+    background: url(cracha/images/background.svg) no-repeat center/cover;
     width: 100vw;
     min-height: 812px;
     height: 100vh;
@@ -80,7 +80,7 @@ body {
   /* estilos versão desktop */
 
   main {
-    background: url(images/background2.svg) no-repeat center/cover;
+    background: url(cracha/images/background2.svg) no-repeat center/cover;
     width: 100vw;
     min-height: 812px;
     height: 100vh;
